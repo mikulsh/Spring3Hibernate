@@ -1,0 +1,6 @@
+/home/opstree/OT-MicroServices-Training/salary/src/main/java/com/opstree/salary/Application.java
+/home/opstree/OT-MicroServices-Training/salary/src/main/java/com/opstree/salary/model/SalaryModel.java
+/home/opstree/OT-MicroServices-Training/salary/src/main/java/com/opstree/salary/config/ElasticsearchConfig.java
+/home/opstree/OT-MicroServices-Training/salary/src/main/java/com/opstree/salary/controller/SalaryController.java
+/home/opstree/OT-MicroServices-Training/salary/src/main/java/com/opstree/salary/util/Constant.java
+/home/opstree/OT-MicroServices-Training/salary/src/main/java/com/opstree/salary/service/SalaryService.java
